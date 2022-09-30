@@ -31,8 +31,15 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
+global.alivemsg =`HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️
+                    
+		   KAVEESHA MD📌 `
                      
+
+
+
+
+
 global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
 
 
@@ -80,7 +87,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa wait DARK NERO BOT processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
