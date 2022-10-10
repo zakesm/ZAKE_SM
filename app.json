@@ -2,8 +2,33 @@
   "name": "⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/zim-bot/zimbot-v2",
-  "logo": "",
+  "logo": "https://i.ibb.co/Rg9YpBF/IMG-20221010-WA0039.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+   "env": {
+  
+ "OWNER_NAME" :{
+    "description" : "enter you name",
+    "required" : true,
+  "value" : "KAVEESHA "
+    },
+    
+     
+     
+"ALIVE_MSG" :{
+    "description" : "enter you msg",
+    "required" : true,
+  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+    },
+     
+     "ALIVE_LOGO" :{
+    "description" : "you logo key",
+    "required" : true,
+  "value" : "https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
+    }
+   },
+     
+     
+    
   "buildpacks": [
     {
       "url": "heroku/nodejs"
